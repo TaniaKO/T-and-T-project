@@ -1,8 +1,7 @@
 # T-and-T-project
 
-Тема:Розробка моделі банкету
 
-Cуть проекту полягає у наступному:
+#Sushi restaurant
 
 
 #Сommentation
@@ -11,7 +10,9 @@ Cуть проекту полягає у наступному:
   We take care of our customers, that’s why we provide a special program with which you will be able to create your perfect banquet.
   How does this program work? It’s extremely easy! You will see “Food” and “Beverages” categories on your screen. In each of them you will in turn find subcategories, with which you can create desired menu. You will also need to enter the number of guests that are supposed to be at the banquet. The program will calculate a quote for a whole celebration for you. So, as you can see, the program is extremely easy to use and rather useful.
 
+![class diagram](https://raw.githubusercontent.com/TaniaKO/T-and-T-project/master/class_diagram.png)
+
 
 #Developers:
-* Карпенко Тетяна;
-* Пашина Тетяна.
+* Karpenko Tetyana;
+* Pashina Tetyana.
